@@ -1,0 +1,33 @@
+ body {
+     display: flex;
+     justify-content: center;
+ }
+.space {
+    width: 600px;
+    height: 800px;
+}
+.top {
+    height: 195px;
+    background: #21b2af;
+}
+.mid {
+    display: flex;
+    justify-content: space-between;
+    height: 190px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.midbox {
+    width: 195px;
+    height: 190px;
+    background: #28beb3;
+}
+.bot {
+    height: 395px;
+    background: #266c72;
+}
+.txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
